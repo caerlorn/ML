@@ -1,8 +1,4 @@
-(* Yıldırım Can Şehirlioğlu
-*  080 302 010
-*  COMPE 325 HW3 *)
-
-type term = int*int;
+﻿type term = int*int;
 
 structure deriv = 
 	struct
