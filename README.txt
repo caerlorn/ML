@@ -1,0 +1,1 @@
+Some ML projects for fun. You can find the respective explanations in each folders read me file.
